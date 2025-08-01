@@ -1,6 +1,6 @@
 // find the longest string in a array
 
-let array = ["applee", "orange", "mango", "pea"];
+let array = ["apple", "orange", "mango", "pea"];
 
 const findLongestString = (array) => {
   let longestString = "";
